@@ -1,1 +1,45 @@
 /*  your css code here. If applicable */
+*{
+	background-color:#cccccc;
+/* 	text-align:center; */
+	font-family:arial;
+}
+h1{
+	text-align:center;
+}
+.player_one{
+	background-color:white;
+	border:1px solid black;
+	border-radius:5px;
+}
+ul{
+	list-style-type:none;
+	text-align:left;
+}
+h3{
+	text-align:center;
+}
+.player_two{
+	text-align:center;
+	background-color:white;
+	border:1px solid black;
+}
+#mp3{
+	margin-right:180px;
+	background-color:white;
+}
+audio{
+	padding-top:15px;
+}
+#mp3-heading{
+	margin-top:none;
+	background-color:white;
+}
+li{
+	background-color:white;
+	padding-left:none;
+}
+#song{
+	background-color:white;
+}
+
